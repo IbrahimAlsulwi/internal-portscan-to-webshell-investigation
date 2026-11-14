@@ -14,7 +14,6 @@ A SYN scan exposed an HTTP service. Later traffic showed SQL injection probes, a
 - [Chronological event table](docs/timeline.csv)
 - [Evidence register and SHA-256 checksums](docs/evidence-register.csv)
 - [Wireshark display filters](docs/wireshark-filters.txt)
-- [Publication guide — Arabic](docs/PUBLISH_AR.md)
 
 ## Case at a glance
 
