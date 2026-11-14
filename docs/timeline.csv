@@ -1,0 +1,10 @@
+time_on_2021-02-07,time_basis,event,figure
+16:33:06,Packet display; timezone unverified,SYN scan,02
+16:33:31 GMT,Server HTTP Date,Web service response,04
+16:36:51 GMT,Server HTTP Date,SQL-oriented test response,06
+16:40:39 GMT,Server HTTP Date,Upload acceptance,08
+16:40:43 GMT,Server HTTP Date,Directory listing,09
+16:40:51 GMT,Server HTTP Date,id result,10
+16:40:56 GMT,Server HTTP Date,whoami result,11
+~16:42,Packet display; timezone unverified,Callback request and shell exchange,12–13
+Later in stream 1277,Relative order only,Discovery and failed deletion,14–15
